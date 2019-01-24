@@ -1,4 +1,4 @@
-# Koords
+# oai-joi-validator-js
 
 Provides a joi schema to OAI API REST
 

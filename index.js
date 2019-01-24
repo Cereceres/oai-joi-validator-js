@@ -1,6 +1,6 @@
 const joi = require('joi')
 
-const metadataPrefixValids = Object.keys(require('../valids-metaprefix'))
+const metadataPrefixValids = Object.keys(require('./valids-metaprefix'))
 
 const validVerbs = [
     'Identify',
